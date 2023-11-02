@@ -1,0 +1,135 @@
+[
+  {
+    "id": 0,
+    "productName": "Fresh Avocados",
+    "image": "🥑",
+    "from": "Spain",
+    "nutrients": "Vitamin B, Vitamin K",
+    "quantity": "4 🥑",
+    "price": "6.50",
+    "organic": true,
+    "description": "A ripe avocado yields to gentle pressure when held in the palm of the hand and squeezed. The fruit is not sweet, but distinctly and subtly flavored, with smooth texture. The avocado is popular in vegetarian cuisine as a substitute for meats in sandwiches and salads because of its high fat content. Generally, avocado is served raw, though some cultivars, including the common 'Hass', can be cooked for a short time without becoming bitter. It is used as the base for the Mexican dip known as guacamole, as well as a spread on corn tortillas or toast, served with spices."
+  },
+  {
+    "id": 1,
+    "productName": "Goat and Sheep Cheese",
+    "image": "🧀",
+    "from": "Portugal",
+    "nutrients": "Vitamin A, Calcium",
+    "quantity": "250g",
+    "price": "5.00",
+    "organic": false,
+    "description": "Creamy and distinct in flavor, goat cheese is a dairy product enjoyed around the world. Goat cheese comes in a wide variety of flavors and textures, from soft and spreadable fresh cheese to salty, crumbly aged cheese. Although it’s made using the same coagulation and separation process as cheese made from cow’s milk, goat cheese differs in nutrient content."
+  },
+  {
+    "id": 2,
+    "productName": "Apollo Broccoli",
+    "image": "🥦",
+    "from": "Portugal",
+    "nutrients": "Vitamin C, Vitamin K",
+    "quantity": "3 🥦",
+    "price": "5.50",
+    "organic": true,
+    "description": "Broccoli is known to be a hearty and tasty vegetable which is rich in dozens of nutrients. It is said to pack the most nutritional punch of any vegetable. When we think about green vegetables to include in our diet, broccoli is one of the foremost veggies to come to our mind. Broccoli is a cruciferous vegetable and part of the cabbage family, which includes vegetables such as Brussel sprouts and kale. Although the tastes are different, broccoli and these other vegetables are from the same family."
+  },
+  {
+    "id": 3,
+    "productName": "Baby Carrots",
+    "image": "🥕",
+    "from": "France",
+    "nutrients": "Vitamin A, Vitamin K",
+    "quantity": "20 🥕",
+    "price": "3.00",
+    "organic": true,
+    "description": "The carrot is a root vegetable that is often claimed to be the perfect health food. It is crunchy, tasty and highly nutritious. Carrots are a particularly good source of beta-carotene, fiber, vitamin K, potassium and antioxidants. Carrots have a number of health benefits. They are a weight loss friendly food and have been linked to lower cholesterol levels and improved eye health."
+  },
+  {
+    "id": 4,
+    "productName": "Sweet Corncobs",
+    "image": "🌽",
+    "from": "Germany",
+    "nutrients": "Vitamin C, Magnesium",
+    "quantity": "2 🌽",
+    "price": "2.00",
+    "organic": false,
+    "description": "Also known as maize, corn is one of the most popular cereal grains in the world. Popcorn and sweet corn are commonly eaten varieties, but refined corn products are also widely consumed, frequently as ingredients in foods. These include tortillas, tortilla chips, polenta, cornmeal, corn flour, corn syrup, and corn oil. Whole-grain corn is as healthy as any cereal grain, rich in fiber and many vitamins, minerals, and antioxidants."
+  },
+  {
+    "id": 5,
+    "productName": "Organic Spinach",
+    "image": "🍃",
+    "from": "USA",
+    "nutrients": "Iron, Vitamin A",
+    "quantity": "300g",
+    "price": "4.50",
+    "organic": true,
+    "description": "Spinach is a leafy green vegetable that is rich in iron and other nutrients. It is often used in salads and cooked dishes. Spinach is known for its health benefits, including improving eyesight and providing energy."
+  },
+  {
+    "id": 6,
+    "productName": "Red Apples",
+    "image": "🍎",
+    "from": "Canada",
+    "nutrients": "Vitamin C, Fiber",
+    "quantity": "6 🍎",
+    "price": "7.20",
+    "organic": true,
+    "description": "Crisp and sweet, red apples are a favorite snack for many. They are also a good source of fiber and vitamin C. Apples can be enjoyed on their own or used in various recipes, such as pies and sauces."
+  },
+  {
+    "id": 7,
+    "productName": "Ripe Mangoes",
+    "image": "🥭",
+    "from": "Mexico",
+    "nutrients": "Vitamin C, Vitamin A",
+    "quantity": "5 🥭",
+    "price": "8.75",
+    "organic": true,
+    "description": "Ripe mangoes are juicy and sweet, making them a delicious tropical fruit. They are rich in vitamins C and A, and are often enjoyed fresh or used in smoothies and desserts."
+  },
+  {
+    "id": 8,
+    "productName": "Golden Pineapples",
+    "image": "🍍",
+    "from": "Costa Rica",
+    "nutrients": "Vitamin C, Manganese",
+    "quantity": "2 🍍",
+    "price": "6.50",
+    "organic": false,
+    "description": "Golden pineapples are known for their sweetness and refreshing taste. They are a good source of vitamin C and manganese. Pineapple slices are great for snacking or adding to tropical dishes."
+  }, 
+  {
+    "id": 9,
+    "productName": "Strawberries",
+    "image": "🍓",
+    "from": "USA",
+    "nutrients": "Vitamin C, Folate",
+    "quantity": "400g",
+    "price": "7.50",
+    "organic": true,
+    "description": "Strawberries are juicy and sweet, packed with vitamin C and folate. They are perfect for snacking, adding to desserts, or making refreshing smoothies."
+  },  
+  {
+    "id": 10,
+    "productName": "Red Cherries",
+    "image": "🍒",
+    "from": "Washington",
+    "nutrients": "Vitamin C, Potassium",
+    "quantity": "1 kg",
+    "price": "12.00",
+    "organic": false,
+    "description": "Red cherries are plump and flavorful, known for their sweet and slightly tart taste. They are a good source of vitamin C and potassium. Enjoy them fresh or use them in desserts and jams."
+  },
+  {
+    "id": 11,
+    "productName": "Organic Kiwi",
+    "image": "🥝",
+    "from": "New Zealand",
+    "nutrients": "Vitamin C, Fiber",
+    "quantity": "6 🥝",
+    "price": "6.25",
+    "organic": true,
+    "description": "Organic kiwi is a small, green fruit with a fuzzy brown skin and vibrant green flesh. It's loaded with vitamin C and fiber. Peel and slice for a refreshing snack or add to smoothies and desserts."
+  }
+]
+
